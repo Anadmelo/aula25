@@ -16,7 +16,6 @@ html{
 }
 
 body{
-    background: black url(img/back-phone.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -42,8 +41,3 @@ img{
     margin: auto;
 }
 
-#phone{display: block;}
-#tablet{display: none;}
-#pc{display: none;}
-#print{display: none;}
-#tv{display: none;}
